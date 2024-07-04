@@ -11,7 +11,7 @@ Este es mi repositorio portafolio
 Portafolio
 https://catherinesolarte.github.io/
 
-Fortk a compañeros
+Fork a compañeros
 https://github.com/
 
 https://github.com/
