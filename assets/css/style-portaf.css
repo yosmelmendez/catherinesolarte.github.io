@@ -1,0 +1,69 @@
+/* Fuente Roboto para todos los elementos */
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Ajusta el espaciado entre letras en texthead */
+.texthead {
+  letter-spacing: 0.5em;
+}
+
+/* Color de fondo negro para bg-element */
+.bg-element {
+  background-color: black;
+}
+
+/* Imagen de fondo, ajustada a su tamaño y posición en bg-image */
+.bg-image {
+  background-image: url(../img/fondov-1.png);
+  height: 35rem;
+  background-position: center;
+  background-size: cover;
+}
+
+/* Limita la altura máxima de my-picture */
+.my-picture {
+  max-height: 20em;
+}
+
+/* Ajusta la altura de las imágenes dentro de item-tech */
+.item-tech img {
+  height: 5em;
+}
+
+/* Aplica una rotación de 360 grados y sombra de texto al hacer hover en imágenes dentro de item-tech */
+.item-tech img:hover {
+  transform: rotate(360deg);
+  text-shadow: 1em;
+  transition: 1s;
+}
+
+.custom-card-group .card {
+  padding: 10px;
+}
+
+img.card-img-top {
+  padding: 10px;
+}
+
+/* Define un fondo negro para item-portfolio */
+.item-portfolio {
+  background-color: black;
+}
+
+/* Limita la altura máxima de item-works */
+.item-works {
+  max-height: 50em;
+}
+
+/* Reduce la opacidad de las imágenes al hacer hover en item-works */
+.item-works img:hover {
+  opacity: 0.2;
+  transition: 0.5s;
+}
+
+/* Ajusta el ancho al 100% y limita la altura máxima de item-footer */
+.item-footer {
+  width: 100%;
+  max-height: 10em;
+}
