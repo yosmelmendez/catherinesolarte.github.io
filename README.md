@@ -12,6 +12,5 @@ Portafolio
 https://catherinesolarte.github.io/
 
 Fork a compañeros
-https://github.com/
-
-https://github.com/
+https://github.com/Catherinesolarte/Curriculum/tree/new
+https://github.com/Catherinesolarte/drmartinezmo.github.io
